@@ -124,8 +124,10 @@
 
 ![image.png](https://github.com/user-attachments/assets/ee4bc143-62cc-4f78-b985-b4ed5a243aee)
 
-<img width="450" alt="image 8" src="https://github.com/user-attachments/assets/2e96299e-aae6-498a-9d97-f447fec82e67"> 
-<img width="300" alt="image 9" src="https://github.com/user-attachments/assets/445e9fcc-af0a-4cf0-86c8-d4df87842da9">
+ <p align="center">
+  <img height="300" alt="image 8" src="https://github.com/user-attachments/assets/942e9b79-e470-48a6-bc3a-70b2d5abfad6">
+  <img height="300" alt="image 9" src="https://github.com/user-attachments/assets/a733b5d9-3e85-41f3-bb23-c77abab83bff">
+</p>
 
 - 반려생활 탭으로 핏팻으로 유도하려 것이 목적이지만 현재의 블로그 형식은 오히려 준비되지 않은 플랫폼이라는 인식을 주고 있었다.
 - 웹 메인페이지에서 “간단비교, 쉬운설명, 쉬운가입, 간단청구”와 같이 SC를 통해 얻을 수 있는 이점이 아닌 당연한 이야기만 적어놓은 UX라이팅이나 해상도 떨어지고 올드한 GUI 아이콘, 비어보이는 디자인 형태 UI가 유저로 하여금 오히려 신뢰감을 저하시키고 있었다.
@@ -179,11 +181,15 @@
 
 ![image.png](https://github.com/user-attachments/assets/e784cd86-3eee-4e7d-8814-6e11ceef51e9)
 
-<img width="388" alt="image 14" src="https://github.com/user-attachments/assets/1a087cea-32af-4969-bdc6-4513f25a9933">
-<img width="415" alt="image 15" src="https://github.com/user-attachments/assets/b68b4cb8-2b86-42d8-97b5-8a62349f6ec4">
+<p align="center">
+  <img width="45%" alt="image 14" src="https://github.com/user-attachments/assets/1a087cea-32af-4969-bdc6-4513f25a9933">
+  <img width="45%" alt="image 15" src="https://github.com/user-attachments/assets/b68b4cb8-2b86-42d8-97b5-8a62349f6ec4">
+</p>
 
-<img width="450" alt="image 16" src="https://github.com/user-attachments/assets/8ae91a2a-575d-40a5-8c2a-ba7d394b3e55">
-<img width="315" alt="image 17" src="https://github.com/user-attachments/assets/8a7fb1c7-671d-46a2-a688-43f46d9c66ce">
+<p align="center">
+  <img width="52%" alt="image 16" src="https://github.com/user-attachments/assets/8ae91a2a-575d-40a5-8c2a-ba7d394b3e55">
+  <img width="38%" alt="image 17" src="https://github.com/user-attachments/assets/8a7fb1c7-671d-46a2-a688-43f46d9c66ce">
+</p>
 
 ![image.png](https://github.com/user-attachments/assets/e6ac97a4-1059-42fa-b49f-1d77fee9b56e)
 
@@ -192,8 +198,10 @@
 - 목적: 보험 견적의 자동화를 통해 보험 가입 상담 건수를 늘리고 가입 이후에도 보험 관리 및 청구 기능을 통해 앱의 리텐션을 높인다. 특히 앱 내에서 보험금 청구 대리 신청을 위해 필요한 자료를 입력 받음으로서 카카오톡을 통해 이뤄졌던 업무의 일부를 자동화하여 업무 리소스를 줄이며, 기존의 보험사에서 이뤄지던 보험금 청구 프로세스를 SC앱 내에서 진행하며 보험사로 변모할 가능성을 열어둔다.
 - UX/UI적 요소 : 온보딩 이후 펫보험 견적을 바로 받아보게 하는 UX와 언제든 견적 확인과 상담이 이뤄질 수 있도록 접근성을 보여주는 UI를 강조한다.
 
-<img width="380" alt="image 19" src="https://github.com/user-attachments/assets/89d2e439-af95-4e90-bcce-cf3efce8dc6e">
-<img width="450" alt="image 20" src="https://github.com/user-attachments/assets/b87683e6-d7cf-4bcc-ad23-40f7376d99dc">
+<p align="center">
+  <img width="41%" alt="image 19" src="https://github.com/user-attachments/assets/89d2e439-af95-4e90-bcce-cf3efce8dc6e">
+  <img width="49%" alt="image 20" src="https://github.com/user-attachments/assets/b87683e6-d7cf-4bcc-ad23-40f7376d99dc">
+</p>
 
 ## 2. 과제 (2) 에 대한 해결방안: 견적서 발송 단순/반복 업무에 대한 자동화
 
